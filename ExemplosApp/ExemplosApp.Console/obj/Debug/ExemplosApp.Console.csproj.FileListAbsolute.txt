@@ -1,0 +1,7 @@
+C:\Users\sabado\Documents\GitHub\rep\ExemplosApp\ExemplosApp.Console\bin\Debug\ExemplosApp.Console.exe.config
+C:\Users\sabado\Documents\GitHub\rep\ExemplosApp\ExemplosApp.Console\bin\Debug\ExemplosApp.Console.exe
+C:\Users\sabado\Documents\GitHub\rep\ExemplosApp\ExemplosApp.Console\bin\Debug\ExemplosApp.Console.pdb
+C:\Users\sabado\Documents\GitHub\rep\ExemplosApp\ExemplosApp.Console\obj\Debug\ExemplosApp.Console.csprojResolveAssemblyReference.cache
+C:\Users\sabado\Documents\GitHub\rep\ExemplosApp\ExemplosApp.Console\obj\Debug\ExemplosApp.Console.csproj.CoreCompileInputs.cache
+C:\Users\sabado\Documents\GitHub\rep\ExemplosApp\ExemplosApp.Console\obj\Debug\ExemplosApp.Console.exe
+C:\Users\sabado\Documents\GitHub\rep\ExemplosApp\ExemplosApp.Console\obj\Debug\ExemplosApp.Console.pdb
